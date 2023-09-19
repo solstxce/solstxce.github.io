@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9 Cybersecurity Vulnerabilities
-subtitle: A blog by solstxce
+subtitle: A blog by Hitesh Kumar
 # cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
