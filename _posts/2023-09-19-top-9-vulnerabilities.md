@@ -44,7 +44,7 @@ Client-side validation is a helpful tool for improving user experience, but it s
 **6. SQL Injection**
 
 SQL injection remains a prevalent threat in the cybersecurity landscape. Attackers exploit vulnerable input fields to inject malicious SQL queries, potentially gaining unauthorized access to a database or manipulating data. Protecting against SQL injection involves using parameterized queries and input validation. 
-![SQL Injection](https://portswigger.net/web-security/images/sql-injection.svg){: .mx-auto.d-block :}
+![SQL Injection](https://raw.githubusercontent.com/solstxce/solstxce.github.io/master/assets/img/sql-injection.jpg){: .mx-auto.d-block :}
 Parameterized queries separate user inputs from SQL commands, making it impossible for attackers to inject malicious code. Comprehensive input validation ensures that only safe, expected data enters the system, reducing the risk of SQL injection.
 
 **7. Broken Authentication**
@@ -58,7 +58,7 @@ Failure to implement proper rate limiting can expose your application to various
 **9. Broken Access Control**
 
 Broken access control vulnerabilities occur when users gain unauthorized access to restricted resources or perform actions they shouldn't. Enforce proper access controls and authorization checks throughout your application to prevent unauthorized access to sensitive data. Role-based access control (RBAC) and regular security audits are essential components of a robust access control strategy. By addressing these vulnerabilities, you can ensure that your application only grants access to authorized users and maintains the confidentiality and integrity of your data.
-![Broken-Access-Control](https://portswigger.net/web-security/images/access-control.svg)
+![Broken-Access-Control](https://raw.githubusercontent.com/solstxce/solstxce.github.io/master/assets/img/access-control.jpg)
 
 
 
