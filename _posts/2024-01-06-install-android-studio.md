@@ -21,7 +21,7 @@ If using **Windows 11**
 - Click on that app to open
 <div class="text-center">
   <br/>
-  <img src="{{ 'assets/img/Terminal.png}}" alt="Windows Terminal" />
+  <img src="https://i.imgur.com/ffqcBrF.png" alt="Windows Terminal" />
 </div>
 
 If using **Windows 10**:
@@ -35,10 +35,16 @@ irm https://pastebin.com/raw/QDZDZvCv | iex
 ```
 <div class="text-center">
   <br/>
-  <img src="{{ 'assets/img/Open_Terminal.png}}" alt="Android Studio" />
+  <img src="https://i.imgur.com/0WWzTns.png" alt="Windows Powershell" />
 </div>
 
-- If connected to college network, **KLU-WIFI**, press y and enter
-- If connected to mobile data, press n and enterr
+**Step-3**
 
-## Now wait for the script to finish installing Android Studio!
+- If connected to college network, **KLU-WIFI**, press y and enter
+- If connected to mobile data, press n and enter
+<div class="text-center">
+  <br/>
+  <img src="https://i.imgur.com/HjX2SXJ.png" alt="Installer" />
+</div>
+
+## Now wait for the script to finish installing Android Studio
