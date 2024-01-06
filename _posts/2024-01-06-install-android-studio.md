@@ -23,16 +23,17 @@ If using **Windows 11**
 If using **Windows 10**:
 - Press Windows button and type Powershell
 - Click on that app to open
+<div class="text-center">
+  <br/>
+  <img src="https://i.imgur.com/0WWzTns.png" alt="Windows Powershell" />
+</div>
 
 ## Step-2
 - Copy paste the following command in that window and press enter
 ```powershell
 irm https://pastebin.com/raw/QDZDZvCv | iex
 ```
-<div class="text-center">
-  <br/>
-  <img src="https://i.imgur.com/0WWzTns.png" alt="Windows Powershell" />
-</div>
+
 
 ## Step-3
 
