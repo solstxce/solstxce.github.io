@@ -10,7 +10,7 @@ tags: [kare, gdsc, gdsckare, developerstudentclub, android, androidstudio, andro
 ## Introduction
 
 Generally, it is a bit difficult to install Android Studio. So, I've created a script to automate the process!
-
+### Do note that this requires active internet connection and atleast 1.5GB of data
 ## Step-1
 If using **Windows 11**
 - Press Windows button and type Terminal.
