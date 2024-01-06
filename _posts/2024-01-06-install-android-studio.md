@@ -4,10 +4,6 @@ title: How to install Android Studio
 subtitle: A blog by Hitesh Kumar
 # gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
-# comments: true
----
-
 tags: [kare, gdsc, gdsckare, developerstudentclub, android, androidstudio, androidstudioinstall]
 ---
 
