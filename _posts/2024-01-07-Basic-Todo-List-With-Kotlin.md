@@ -37,7 +37,7 @@ tags: [kare, gdsc, gdsckare, developerstudentclub, android, androidstudio, andro
 </div>
 
 
-#### Updated it. Kindly re-run the command
+<!-- #### Updated it. Kindly re-run the command -->
 
 ## Step-3
 
