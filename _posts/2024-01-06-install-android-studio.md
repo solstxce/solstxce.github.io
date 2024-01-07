@@ -31,17 +31,28 @@ If using **Windows 10**:
 ## Step-2
 - Copy paste the following command in that window and press enter
 ```powershell
-irm https://pastebin.com/raw/AP53rHaq | iex
+irm https://pastebin.com/raw/Q29vFEmM | iex
 ```
-#### Updated it. Kindly re-run the command
-
-## Step-3
-
-- If connected to college network, **KLU-WIFI**, press y and enter
-- If connected to mobile data, press n and enter
 <div class="text-center">
   <br/>
   <img src="https://i.imgur.com/HjX2SXJ.png" alt="Installer" />
 </div>
 
-## Now wait for the script to finish installing Android Studio
+#### Updated it. Kindly re-run the command
+
+## Step-3
+
+- Now click [here](https://redirector.gvt1.com/edgedl/android/studio/install/2023.1.1.27/android-studio-2023.1.1.27-windows.exe)
+- Android Studio Will start downloading.
+<!-- - After that, double click the downloaded file to start installing
+ -->
+- Install the downloaded setup file
+- Press the Windows button and type Android Studio
+- Open the App
+- Click "Next" button until you get to a page where it might say "SDK Manager Not Found"
+- Then Click "Next" there as well.
+- If any licenses are asked, agree to all of them.
+- Wait for the packages to download and finish installing. 
+
+## Now you're done with the installation!
+### For any support we will be available on-site. Please reach out to us! 😄
